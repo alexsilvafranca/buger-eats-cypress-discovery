@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Alex França",
+        "cpf": "12345678901",
+        "email": "teste@teste.com.br",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "32623110",
+            "street": "Avenida Álvaro da Silveira",
+            "number": "971",
+            "details": "Casa",
+            "district": "Marimbá",
+            "city_state": "Betim/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Alex Silva",
+        "cpf": "x00000141AA",
+        "email": "teste2@teste.com.br",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "32623110",
+            "street": "Avenida Álvaro da Silveira",
+            "number": "971",
+            "details": "Casa",
+            "district": "Marimbá",
+            "city_state": "Betim/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Alex França",
+        "cpf": "12345678901",
+        "email": "teste@",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "32623110",
+            "street": "Avenida Álvaro da Silveira",
+            "number": "971",
+            "details": "Casa",
+            "district": "Marimbá",
+            "city_state": "Betim/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
